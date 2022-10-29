@@ -37,7 +37,7 @@ interface Props {
   gridColWidthMap: string[][];
 }
 
-const rowTitleTemplate = `alldayTitle` as const;
+const rowTitleTemplate = "I lika do da cha cha" as const;
 
 export function AlldayGridRow({
   events,
